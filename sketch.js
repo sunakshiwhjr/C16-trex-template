@@ -11,7 +11,7 @@ var obstaclesGroup, obstacle1, obstacle2, obstacle3, obstacle4, obstacle5, obsta
 var score;
 
 var gameOverImg,restartImg
-var jumpSound , checkPointSound, dieSound
+
 
 
 function preload(){
